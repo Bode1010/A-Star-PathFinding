@@ -1,0 +1,31 @@
+﻿  AStarPathFinding.cpp
+c:\users\olabo\source\repos\astarpathfinding\astarpathfinding\astarpathfinding.cpp(34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\olabo\source\repos\astarpathfinding\astarpathfinding\astarpathfinding.cpp(35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\olabo\source\repos\astarpathfinding\astarpathfinding\astarpathfinding.cpp(36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\olabo\source\repos\astarpathfinding\astarpathfinding\astarpathfinding.cpp(37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Board.cpp
+c:\users\olabo\source\repos\astarpathfinding\astarpathfinding\board.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\olabo\source\repos\astarpathfinding\astarpathfinding\board.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\olabo\source\repos\astarpathfinding\astarpathfinding\board.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\olabo\source\repos\astarpathfinding\astarpathfinding\board.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\olabo\source\repos\astarpathfinding\astarpathfinding\board.cpp(137): warning C4018: '<': signed/unsigned mismatch
+c:\users\olabo\source\repos\astarpathfinding\astarpathfinding\board.cpp(149): warning C4018: '<': signed/unsigned mismatch
+c:\users\olabo\source\repos\astarpathfinding\astarpathfinding\board.cpp(201): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  AStarPathFinding.vcxproj -> C:\Users\olabo\source\repos\AStarPathFinding\Debug\AStarPathFinding.exe
